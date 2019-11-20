@@ -105,7 +105,8 @@
     "redux-saga": "1.0.5",
     "reselect": "4.0.0",
     "sanitize.css": "10.0.0",
-    "styled-components": "4.3.2"
+    "styled-components": "4.3.2",
+    "yarn": "^1.19.1"
   },
   "devDependencies": {
     "@babel/cli": "7.5.0",

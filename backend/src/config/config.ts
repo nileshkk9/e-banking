@@ -3,7 +3,7 @@ import * as dotenv from "dotenv";
 dotenv.config();
 
 const isTestEnvironment = process.env.NODE_ENV === "test";
-
+console.log(process.env.DB_PORT);
 export default {
   name: "V2X Core",
   version: "1.0",
